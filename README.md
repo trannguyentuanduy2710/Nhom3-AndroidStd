@@ -17,5 +17,5 @@ Tuần 6-7-8-9-10-11-12-13
 + Lưu hình ảnh và chỉnh sửa các bộ câu hỏi
 + Thêm các hiệu ứng âm thanh, lưu account trên firebase
 ==> Kết thúc dự án và bắt đầu Demo
-
+Link File nhóm: https://drive.google.com/drive/u/1/my-drive
 
